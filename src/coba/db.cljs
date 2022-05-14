@@ -1,0 +1,4 @@
+(ns coba.db)
+
+(def default-db
+  {:name "re-frame"})

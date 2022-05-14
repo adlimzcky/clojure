@@ -1,0 +1,1 @@
+{"version":3,"sources":["coba/db.cljs"],"mappings":";AAEA,qBAAA,2CAAA,qDAAA,rHAAKA","names":["coba.db/default-db"],"sourcesContent":["(ns coba.db)\n\n(def default-db\n  {:name \"re-frame\"})\n"]}
